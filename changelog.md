@@ -15,3 +15,4 @@ Maintenance format
 	Added the following files: README.md, install.md, changelog.md.
 	Added Main.java First release 
 
+[1.0.1] - 2025-01-31
