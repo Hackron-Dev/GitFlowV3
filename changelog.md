@@ -21,3 +21,6 @@ Maintenance format
 
 [1.0.2] - 2025-01-31
 	Added more code to create a smile
+
+[1.1.0] - 2025-01-31
+	Added new Feature (Smile Face)
