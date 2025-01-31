@@ -16,3 +16,8 @@ Maintenance format
 	Added Main.java First release 
 
 [1.0.1] - 2025-01-31
+	Added some feature to create a smile
+
+
+[1.0.2] - 2025-01-31
+	Added more code to create a smile
